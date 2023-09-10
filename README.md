@@ -80,3 +80,7 @@ The game logic is implemented in JavaScript. It handles item interactions, card 
 The game also stores player progress, including the coin balance and purchased cards, in local storage to allow for continued play.
 
 This Markdown document provides an overview of the game setup, elements, and mechanics. The actual implementation details and code can be found in the accompanying JavaScript file.
+
+## Unlocking the Power of Blockchain
+
+In TimeRush Game, players can collect various items, manipulate time, and maximize their profits. What sets this game apart is the ability for players to create and develop tokens within a blockchain ecosystem. Dive into the world of TimeRush and experience the thrill of both gaming and blockchain innovation.
