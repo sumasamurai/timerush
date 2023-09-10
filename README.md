@@ -6,8 +6,10 @@ TimeRush is an exciting web-based game where you can collect various items, cont
 
 Clone this repository to your local computer and open it in your preferred code editor. To start playing the game, open the index.html file in a web browser.
 
+```bash
 git clone https://github.com/your-username/TimeRush.git
 cd TimeRush
+```
 
 # Game Description
 
